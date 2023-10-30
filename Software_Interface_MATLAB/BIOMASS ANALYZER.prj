@@ -1,0 +1,144 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="1047020990" file="D:\0.proyecto de grado\software version 0.3\Biomasa_Interface_final\Biomasa\BIOMASS ANALYZER.prj" location="D:\0.proyecto de grado\software version 0.3\Biomasa_Interface_final\Biomasa" name="BIOMASS ANALYZER" target="target.mlapps" target-name="Package App">
+    <param.appname>BIOMASS ANALYZER</param.appname>
+    <param.authnamewatermark>Julian Mahecha, William Sanchez</param.authnamewatermark>
+    <param.email>softwarebiomasa@gmail.com</param.email>
+    <param.company>U. Distrital Francisco Jose de Caldas</param.company>
+    <param.icon />
+    <param.icons />
+    <param.summary />
+    <param.description />
+    <param.screenshot>${PROJECT_ROOT}\LogoFondoBlanco.PNG</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>D:\0.proyecto de grado\software version 0.3</param.output>
+    <param.guid>7a1e257e-d670-4ec4-84f3-7569a0ffeae8</param.guid>
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.summary />
+      <param.description />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\Acceso.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\62ab939f02e72.jpeg</file>
+      <file>${PROJECT_ROOT}\abedul.jpg</file>
+      <file>${PROJECT_ROOT}\abeto_rojo.jpeg</file>
+      <file>${PROJECT_ROOT}\acer_pseudoplatanus.jpg</file>
+      <file>${PROJECT_ROOT}\adelante.png</file>
+      <file>${PROJECT_ROOT}\AgenciaNoticias-20161003-01.jpg</file>
+      <file>${PROJECT_ROOT}\agricola.png</file>
+      <file>${PROJECT_ROOT}\agricola_bioma.png</file>
+      <file>${PROJECT_ROOT}\agricolaypecuario.png</file>
+      <file>${PROJECT_ROOT}\alnus glutinosa.jpg</file>
+      <file>${PROJECT_ROOT}\alnus incana.jpg</file>
+      <file>${PROJECT_ROOT}\atras.png</file>
+      <file>${PROJECT_ROOT}\BD_01.png</file>
+      <file>${PROJECT_ROOT}\biodigestor.jpeg</file>
+      <file>${PROJECT_ROOT}\bioetanol-696x397.jpg</file>
+      <file>${PROJECT_ROOT}\biogas.png</file>
+      <file>${PROJECT_ROOT}\biomasa_0.gif</file>
+      <file>${PROJECT_ROOT}\calcular.png</file>
+      <file>${PROJECT_ROOT}\calculargas.png</file>
+      <file>${PROJECT_ROOT}\cantgas.png</file>
+      <file>${PROJECT_ROOT}\carbon.jpg</file>
+      <file>${PROJECT_ROOT}\carpe.jpg</file>
+      <file>${PROJECT_ROOT}\datos_agricola.xlsx</file>
+      <file>${PROJECT_ROOT}\datos_agricola1.xlsx</file>
+      <file>${PROJECT_ROOT}\datos_agricola1_ingles.xlsx</file>
+      <file>${PROJECT_ROOT}\datos_agricola2.xlsx</file>
+      <file>${PROJECT_ROOT}\datos_agricola_ingles.xlsx</file>
+      <file>${PROJECT_ROOT}\datos_forestal.xlsx</file>
+      <file>${PROJECT_ROOT}\datos_forestal_ingles.xlsx</file>
+      <file>${PROJECT_ROOT}\datos_pecuario.xlsx</file>
+      <file>${PROJECT_ROOT}\datos_pecuario1.xlsx</file>
+      <file>${PROJECT_ROOT}\datos_pecuario1_ingles.xlsx</file>
+      <file>${PROJECT_ROOT}\datos_pecuario_ingles.xlsx</file>
+      <file>${PROJECT_ROOT}\easset_upload_file56434_909724_e.jpg</file>
+      <file>${PROJECT_ROOT}\English.m</file>
+      <file>${PROJECT_ROOT}\finalselec.png</file>
+      <file>${PROJECT_ROOT}\forestal.png</file>
+      <file>${PROJECT_ROOT}\formulaagricola1.jpeg</file>
+      <file>${PROJECT_ROOT}\formulaagricola2.jpeg</file>
+      <file>${PROJECT_ROOT}\formulaforestal.jpeg</file>
+      <file>${PROJECT_ROOT}\formulapecuario1.jpeg</file>
+      <file>${PROJECT_ROOT}\formulapecuario2.jpeg</file>
+      <file>${PROJECT_ROOT}\fresno.jpg</file>
+      <file>${PROJECT_ROOT}\fundas-banano-solidaridad.jpg</file>
+      <file>${PROJECT_ROOT}\gas-LP-870x600.jpg</file>
+      <file>${PROJECT_ROOT}\haya.jpeg</file>
+      <file>${PROJECT_ROOT}\info.png</file>
+      <file>${PROJECT_ROOT}\informacion.mlapp</file>
+      <file>${PROJECT_ROOT}\ingelectrica.png</file>
+      <file>${PROJECT_ROOT}\Inicio.mlapp</file>
+      <file>${PROJECT_ROOT}\inicio.png</file>
+      <file>${PROJECT_ROOT}\instrucciones.png</file>
+      <file>${PROJECT_ROOT}\Instructivo2.mlapp</file>
+      <file>${PROJECT_ROOT}\lifae.png</file>
+      <file>${PROJECT_ROOT}\logo.png</file>
+      <file>${PROJECT_ROOT}\mapa_temp.jpeg</file>
+      <file>${PROJECT_ROOT}\olmo.jpg</file>
+      <file>${PROJECT_ROOT}\pecuario.png</file>
+      <file>${PROJECT_ROOT}\pinabete.jpeg</file>
+      <file>${PROJECT_ROOT}\pino silvestre.jpeg</file>
+      <file>${PROJECT_ROOT}\pinus_strobus.jpg</file>
+      <file>${PROJECT_ROOT}\potencial_energetico.png</file>
+      <file>${PROJECT_ROOT}\potgas.png</file>
+      <file>${PROJECT_ROOT}\pregunta.png</file>
+      <file>${PROJECT_ROOT}\proceso-biodigestor-768x451.png</file>
+      <file>${PROJECT_ROOT}\Proceso_Biodigestor.mlapp</file>
+      <file>${PROJECT_ROOT}\Proceso_gasificador.mlapp</file>
+      <file>${PROJECT_ROOT}\quercus cerris.jpeg</file>
+      <file>${PROJECT_ROOT}\Residuos comerciales e industriales.png</file>
+      <file>${PROJECT_ROOT}\roble.jpeg</file>
+      <file>${PROJECT_ROOT}\Salir.png</file>
+      <file>${PROJECT_ROOT}\salix alba.jpeg</file>
+      <file>${PROJECT_ROOT}\selecagricola.png</file>
+      <file>${PROJECT_ROOT}\selecbioamasa.png</file>
+      <file>${PROJECT_ROOT}\seletemperatura .png</file>
+      <file>${PROJECT_ROOT}\Spanish.m</file>
+      <file>${PROJECT_ROOT}\temperatura.png</file>
+      <file>${PROJECT_ROOT}\tratamiento-residuos-solidos-urbanos.jpg</file>
+      <file>${PROJECT_ROOT}\UDistrital.png</file>
+      <file>${PROJECT_ROOT}\unidades.jpeg</file>
+      <file>${PROJECT_ROOT}\unidadesmasa.png</file>
+      <file>${PROJECT_ROOT}\volumenbio.png</file>
+      <file>${PROJECT_ROOT}\volumenesinstru.png</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="D:\0.proyecto de grado" name="software version 0.3" optional="false">D:\0.proyecto de grado\software version 0.3</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2022b</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
